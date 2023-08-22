@@ -16,3 +16,4 @@ echo "Simple Interest is: " $simple_interest
 
 amount=$(expr $simple_interest + $principal)
 echo "Amount is: "$amount
+echo "Success"
